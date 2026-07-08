@@ -59,7 +59,7 @@ htmlcov/
 .nox/
 # IDEs
 .idea/
-.vscode/
 *.swp
 *.swo
 *~
+config.bat
